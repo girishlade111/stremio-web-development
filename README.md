@@ -54,3 +54,7 @@ docker run -p 8080:8080 stremio-web
 ## License
 
 Stremio is copyright 2017-2023 Smart code and available under GPLv2 license. See the [LICENSE](/LICENSE.md) file in the project for more information.
+
+---
+
+**Built by Girish Lade** — https://ladestack.in
